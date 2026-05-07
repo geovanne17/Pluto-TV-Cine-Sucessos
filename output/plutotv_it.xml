@@ -11297,6 +11297,11 @@ Cuatro hombres son detenidos fumando marihuana y bebiendo alcohol en la vía pú
         <desc>Matt T. Sherman y Nicholas Holden son el capitán y el primer oficial de un submarino en el que tienen lugar diversas aventuras.</desc>
         <icon src="https://images.pluto.tv/series/673b0a832678a50014db557a/tile_1769190843178.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="61373bb45168fe000773eecd" start="20260508053647 +0000" stop="20260508070543 +0000">
+        <title>Inocencia y juventud</title>
+        <desc>Robert Tisdall encuentra en la playa el cuerpo sin vida de una joven. Corre en busca de ayuda, pero dos muchachas lo ven y, creyendo que es el asesino, lo denuncian a la policía.</desc>
+        <icon src="https://images.pluto.tv/series/673f3ce0321c1900133833b9/tile_1769191921994.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="61b87bc867b03a0007864e0d" start="20260508004612 +0000" stop="20260508014412 +0000">
         <title>Super Shore: Super Shore Todos contra la flaca</title>
         <desc>La situación de Talía e Igor no estaría siendo la mejor. No hablar con Aranxta la lleva a quedar expuesta porque la española toma la iniciativa y le dice sus verdades.</desc>
@@ -14868,6 +14873,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Jeffrey de Zwaan joins Henry Deacon to reflect on his career highs and plans after losing his tour card.</desc>
         <icon src="https://images.pluto.tv/series/67e2e1e0e8cf62654291fc64/tile_1757661392354.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="67164414e40c4a00087f450d" start="20260508053400 +0000" stop="20260508060000 +0000">
+        <title>The Greatest Darts Matches Ever</title>
+        <desc>Paul Hinks and Keegan Brown join Chris Murphy to discuss the greatest darts matches of all time!</desc>
+        <icon src="https://plut.tmsimg.com/assets/p29734146_b_s4_aa.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="67517fae5534bb0008187997" start="20260508013000 +0000" stop="20260508020000 +0000">
         <title>Actualidad 360</title>
         <desc>Actualidad 360 es un canal de noticias 24 horas que, de la mano de las agencias y medios de comunicación líderes en España, ofrece una visión plural sobre la actualidad más relevante a nivel nacional e internacional.</desc>
@@ -15877,6 +15887,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <title>El tercer asesinato</title>
         <desc>El conocido abogado Shigemori defiende a Misumi, acusado de robo con homicidio, que ya cumplió pena de cárcel por otro asesinato hace treinta años.</desc>
         <icon src="https://images.pluto.tv/series/60d1863cd2de2a00130037fe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac8a87cd38d000745d7cf" start="20260508095628 +0000" stop="20260508114328 +0000">
+        <title>Cut Bank</title>
+        <desc>Dwayne, un joven que fue atleta estrella y que ahora trabaja como mecánico, sueña con irse de la población de Cut Bank - la ciudad más fría de los EE.UU. - y mudarse a la gran ciudad, llevándose consigo a su novia Cassandra, que sueña con ser modelo.</desc>
+        <icon src="https://images.pluto.tv/series/60d0435a28f1d30013ed359e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f1ac947dcd00d0007937c08" start="20260508043124 +0000" stop="20260508063424 +0000">
         <title>La carretera</title>
@@ -29814,7 +29829,12 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Guiada por visiones divinas, Juana de Arco, adolescente del siglo XV, lidera a Francia en guerra. Parte 1.</desc>
         <icon src="https://images.pluto.tv/series/68ef5b8833c9798391286c00/tile_1760517003718.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1ac1f1b66c76000790ef27" start="20260508173716 +0000" stop="20260508213000 +0000">
+    <programme channel="5f1ac1f1b66c76000790ef27" start="20260508173716 +0000" stop="20260508192413 +0000">
+        <title>Juana de Arco</title>
+        <desc>Guiada por visiones divinas, Juana de Arco, adolescente del siglo XV, lidera a Francia en guerra. Parte 2.</desc>
+        <icon src="https://images.pluto.tv/series/68ef5b8833c9798391286c00/tile_1760517003718.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac1f1b66c76000790ef27" start="20260508192413 +0000" stop="20260508213000 +0000">
         <title>Pluto TV Cine Estelar</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29834,7 +29854,12 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Un estudiante francés de principios estrictos se muda a un apartamento en Barcelona con un elenco de otros seis personajes de toda Europa. Juntos, hablan el idioma internacional del amor y la amistad.</desc>
         <icon src="https://images.pluto.tv/series/67ef8a7889ba442cd927ecbe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f1ac8099c49f600076579b2" start="20260508175126 +0000" stop="20260508213000 +0000">
+    <programme channel="5f1ac8099c49f600076579b2" start="20260508175126 +0000" stop="20260508192726 +0000">
+        <title>Los Dalton Contra Lucky Luke</title>
+        <desc>Cuatro torpes hermano intentan impresionar a su criminal madre asaltando un banco.</desc>
+        <icon src="https://images.pluto.tv/series/5f4eacc9db45a1001a795155/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac8099c49f600076579b2" start="20260508192726 +0000" stop="20260508213000 +0000">
         <title>Pluto TV Cine Comedia</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/featuredImage_1769092378954.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29849,7 +29874,12 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="5f1ac947dcd00d0007937c08" start="20260508173000 +0000" stop="20260508213000 +0000">
+    <programme channel="5f1ac947dcd00d0007937c08" start="20260508172933 +0000" stop="20260508192110 +0000">
+        <title>Hurricane</title>
+        <desc>Junio de 1940. En la Francia ocupada por Alemania, el joven polaco Jan Zumbach se hace pasar por un viajante de relojes suizo para conseguir llegar a un aeródromo.</desc>
+        <icon src="https://images.pluto.tv/series/64fb001e3b20050013642ad1/tile_1769045043405.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f1ac947dcd00d0007937c08" start="20260508192110 +0000" stop="20260508213000 +0000">
         <title>Pluto TV Cine Drama</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29874,12 +29904,37 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="60218baa464ef900073168c1" start="20260508173000 +0000" stop="20260508213000 +0000">
+    <programme channel="60218baa464ef900073168c1" start="20260508171100 +0000" stop="20260508173300 +0000">
+        <title>Empeños a lo bestia</title>
+        <desc>Cuando las computadoras se apagan, el caos en American Jewelry se dispara.</desc>
+        <icon src="https://images.pluto.tv/series/601a7217992a03001b4a46b3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60218baa464ef900073168c1" start="20260508173300 +0000" stop="20260508175600 +0000">
+        <title>Empeños a lo bestia</title>
+        <desc>Seth pone sus manos en una pelota de béisbol supuestamente firmada por el propio Babe Ruth.</desc>
+        <icon src="https://images.pluto.tv/series/601a7217992a03001b4a46b3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60218baa464ef900073168c1" start="20260508175600 +0000" stop="20260508182000 +0000">
+        <title>Empeños a lo bestia</title>
+        <desc>Cuando un cliente malhumorado trae un raro reloj de bolsillo de diamantes antiguo, Ashley y Les creen que podría valer miles, pero necesitan verificación antes de desembolsar mucho dinero.</desc>
+        <icon src="https://images.pluto.tv/series/601a7217992a03001b4a46b3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60218baa464ef900073168c1" start="20260508182000 +0000" stop="20260508213000 +0000">
         <title>Empeños a lo bestia</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60218baa464ef900073168c1/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="6080345ebb49b90007ce0baf" start="20260508173000 +0000" stop="20260508213000 +0000">
+    <programme channel="6080345ebb49b90007ce0baf" start="20260508170900 +0000" stop="20260508175800 +0000">
+        <title>FantomWorks: Merodeador nocturno</title>
+        <desc>Los hermanos Jacob y Paul apodaron su Chevy impala de 1965 "Merodeador Nocturno", pero es casi imposible conducirlo y sería mejor llamarlo "baba nocturna". Dan llega con un Corvette de 1967 y una inmensa lista de cosas que quiere hacerle.</desc>
+        <icon src="https://images.pluto.tv/series/6315c3e5bc1f1600132ebe31/tile_1769124241549.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6080345ebb49b90007ce0baf" start="20260508175800 +0000" stop="20260508184700 +0000">
+        <title>FantomWorks: La bella y el superbee</title>
+        <desc>Cuando Ovide compró su Bel Air de 1957, sin verlo, pensó que compraba una pieza de museo. El auto era una pieza de chatarra, y Dan debe encontrar la manera de restaurar este clásico. Dino es un conductor discapacitado al que le gusta ir rápido.</desc>
+        <icon src="https://images.pluto.tv/series/6315c3e5bc1f1600132ebe31/tile_1769124241549.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6080345ebb49b90007ce0baf" start="20260508184700 +0000" stop="20260508213000 +0000">
         <title>Pluto TV Motor</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29889,22 +29944,52 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>En 1987, 164 personas fueron ejecutadas en el corredor de la muerte de Pretoria, Sudáfrica. Jon Weber es el abogado encargado de defender ante un juez al joven Leon, un traumatizado guardia de la prisión de máxima seguridad de Pretoria.</desc>
         <icon src="https://images.pluto.tv/series/63b5e99686acfd001366be6f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6086d3f420fc8500075f8dbf" start="20260508180000 +0000" stop="20260508213000 +0000">
+    <programme channel="6086d3f420fc8500075f8dbf" start="20260508180000 +0000" stop="20260508200000 +0000">
+        <title>Los chicos de Scottsboro</title>
+        <desc>El abogado Samuel Leibowitz se hace cargo de la defensa de nueve chicos negros que son injustamente acusados y declarados culpables de violar a dos mujeres blancas. Durante el juicio quedan al descubierto numerosas irregularidades.</desc>
+        <icon src="https://images.pluto.tv/series/64243d6ca659cb001a1b55d1/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6086d3f420fc8500075f8dbf" start="20260508200000 +0000" stop="20260508213000 +0000">
         <title>Runtime</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="60d356a534f63f000850cdd7" start="20260508173000 +0000" stop="20260508213000 +0000">
+    <programme channel="60d356a534f63f000850cdd7" start="20260508171520 +0000" stop="20260508181320 +0000">
+        <title>Lo mejor de Top Gear Temporadas 17 y 18: Lo mejor de Top Gear Temporadas 17 y 18, Episodio 2</title>
+        <desc>Richard descubre los placeres de NASCAR y Rowan Atkinson da una vuelta por la pista.</desc>
+        <icon src="https://images.pluto.tv/series/63048edc946347001bf27a06/tile_1770137393541.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60d356a534f63f000850cdd7" start="20260508181320 +0000" stop="20260508213000 +0000">
         <title>Top Gear</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/featuredImage_1760687705283.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="60e45687313c5f0007bc8e94" start="20260508173000 +0000" stop="20260508213000 +0000">
+    <programme channel="60e45687313c5f0007bc8e94" start="20260508171730 +0000" stop="20260508174700 +0000">
+        <title>El encantador de perros: Emily</title>
+        <desc>César Millán, "El encantador de perros", aborda los problemas de la vida real a los que se enfrentan los dueños de perros. No se trata de un adiestramiento de perros, es un entrenamiento de gente para que adiestren perros.</desc>
+        <icon src="https://images.pluto.tv/series/60f921c476826f0013722c99/tile_1776156120888.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60e45687313c5f0007bc8e94" start="20260508174700 +0000" stop="20260508181630 +0000">
+        <title>El encantador de perros: Hank &amp; Paris</title>
+        <desc>César Millán, "El encantador de perros", aborda los problemas de la vida real a los que se enfrentan los dueños de perros. No se trata de un adiestramiento de perros, es un entrenamiento de gente para que adiestren perros.</desc>
+        <icon src="https://images.pluto.tv/series/60f921c476826f0013722c99/tile_1776156120888.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60e45687313c5f0007bc8e94" start="20260508181630 +0000" stop="20260508213000 +0000">
         <title>El encantador de perros</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="60e4573c9f963e00077ecf25" start="20260508173000 +0000" stop="20260508213000 +0000">
+    <programme channel="60e4573c9f963e00077ecf25" start="20260508170900 +0000" stop="20260508173600 +0000">
+        <title>Mi Extraña Obsesión: Adicta al maquillaje / Obsesionada con la muerte</title>
+        <desc>Maureen no sale de la casa sin la cara llena de maquillaje. Mientras tanto, Barbara está tan obsesionada con la muerte que ha planeado su propio funeral.</desc>
+        <icon src="https://images.pluto.tv/series/6181178e54ba66001a691b16/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60e4573c9f963e00077ecf25" start="20260508173600 +0000" stop="20260508180300 +0000">
+        <title>Mi Extraña Obsesión: Laxantes y Alfarería / Cenizas</title>
+        <desc>Kimberly toma cientos de laxantes al día en un intento de perder peso. Mientras tanto, Bianca prefiere comer cerámica y cenizas de cigarrillo en lugar de comida.</desc>
+        <icon src="https://images.pluto.tv/series/6181178e54ba66001a691b16/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60e4573c9f963e00077ecf25" start="20260508180300 +0000" stop="20260508213000 +0000">
         <title>Mi Extraña Obsesión</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29919,22 +30004,52 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61373bb45168fe000773eecd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="61b87bc867b03a0007864e0d" start="20260508173000 +0000" stop="20260508213000 +0000">
+    <programme channel="61b87bc867b03a0007864e0d" start="20260508171712 +0000" stop="20260508175812 +0000">
+        <title>Alaska y Mario: No sin mis amigos</title>
+        <desc>Mientras preparan su luna de miel, la pareja recuerda su boda en Las Vegas en 2006. Mario quiere terminar su libro sin dejar a las Nancys Rubias, que van de gira a Sevilla. Y acompañamos a Alaska al cirujano. ¿De que querrá operarse?</desc>
+        <icon src="https://images.pluto.tv/series/64214d00a659cb001a0d682b/tile_1777975742545.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61b87bc867b03a0007864e0d" start="20260508175812 +0000" stop="20260508184012 +0000">
+        <title>Alaska y Mario: Absolutamente</title>
+        <desc>La luna de miel se amplia con alguien más... ¿Quien será? Mario sigue con su libro, su trabajo de manager, pinchando e incluso dando el biberón. Y como broche, cierran junto a Bimba Bosé el desfile de David Delfin en Madrid.</desc>
+        <icon src="https://images.pluto.tv/series/64214d00a659cb001a0d682b/tile_1777975742545.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61b87bc867b03a0007864e0d" start="20260508184012 +0000" stop="20260508213000 +0000">
         <title>Pluto TV Reality</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61b87bc867b03a0007864e0d/featuredImage_1748526678616.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="61b9edc4a4ca6100070bb407" start="20260508173000 +0000" stop="20260508213000 +0000">
+    <programme channel="61b9edc4a4ca6100070bb407" start="20260508172125 +0000" stop="20260508181525 +0000">
+        <title>Pilotos Del Ártico: Suspension</title>
+        <desc>Un furioso Joe lucha contra una suspensión federal que le impedirá transportar pasajeros por primera vez en 20 años.</desc>
+        <icon src="https://images.pluto.tv/series/69087f003fb09016da92b4c1/tile_1776174841582.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61b9edc4a4ca6100070bb407" start="20260508181525 +0000" stop="20260508213000 +0000">
         <title>Ice Pilots</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61b9edc4a4ca6100070bb407/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="6335a6b6e6f7a600076e589e" start="20260508173000 +0000" stop="20260508213000 +0000">
+    <programme channel="6335a6b6e6f7a600076e589e" start="20260508172000 +0000" stop="20260508174400 +0000">
+        <title>Auction Hunters: Triunfo de Allen</title>
+        <desc>En Estados Unidos, más de 10 000 trasteros salen a subasta pública cada día. Clinton 'Ton' Jones y Allen Haff intentan ganar subastas, adquirir tesoros y venderlos para obtener beneficios.</desc>
+        <icon src="https://images.pluto.tv/series/64f5cc614bcd33001447fd67/tile_1774348200954.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6335a6b6e6f7a600076e589e" start="20260508174400 +0000" stop="20260508180800 +0000">
+        <title>Auction Hunters: Hula Moola</title>
+        <desc>En Estados Unidos, más de 10 000 trasteros salen a subasta pública cada día. Clinton 'Ton' Jones y Allen Haff intentan ganar subastas, adquirir tesoros y venderlos para obtener beneficios.</desc>
+        <icon src="https://images.pluto.tv/series/64f5cc614bcd33001447fd67/tile_1774348200954.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6335a6b6e6f7a600076e589e" start="20260508180800 +0000" stop="20260508213000 +0000">
         <title>Cazasubastas</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6335a6b6e6f7a600076e589e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="645a309c5a0cd5000873f609" start="20260508173000 +0000" stop="20260508213000 +0000">
+    <programme channel="645a309c5a0cd5000873f609" start="20260508171311 +0000" stop="20260508185811 +0000">
+        <title>10.000 días</title>
+        <desc>Hace 10.000 días, un cometa impactó con la Tierra en pleno océano Pacífico con la fuerza de incontables bombas nucleares, sumiendo al planeta en nieve y hielo.</desc>
+        <icon src="https://images.pluto.tv/series/5f4948bb61f1b1001afec827/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645a309c5a0cd5000873f609" start="20260508185811 +0000" stop="20260508213000 +0000">
         <title>Pluto TV Catástrofes</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/645a309c5a0cd5000873f609/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29944,17 +30059,47 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>El 17 de mayo de 2005, se descubre un cuerpo en un bosque de Sucy-en-Brie; Christophe Belle, 40 años, reconocido pastelero.</desc>
         <icon src="https://images.pluto.tv/series/6038f0dce60433001ab2dc26/tile_1769115961299.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64a3f200f238ce0008d47247" start="20260508174214 +0000" stop="20260508213000 +0000">
+    <programme channel="64a3f200f238ce0008d47247" start="20260508174214 +0000" stop="20260508183057 +0000">
+        <title>Infelices Para Siempre: Demonio en la Oscuridad</title>
+        <desc>Unos meses después de la boda, Keith y Anita Yunk duermen en paz cuando los atacan con un cuchillo y destrozan su futuro. La policía deberá juntar las piezas del rompecabezas para revelar la identidad del intruso del mal.</desc>
+        <icon src="https://images.pluto.tv/series/690db510d2a007fabaf203fa/tile_1762508013191.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64a3f200f238ce0008d47247" start="20260508183057 +0000" stop="20260508213000 +0000">
         <title>Pluto TV True Crime</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64a3f200f238ce0008d47247/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="65254e8d81f9420008342cee" start="20260508173000 +0000" stop="20260508213000 +0000">
+    <programme channel="65254e8d81f9420008342cee" start="20260508171837 +0000" stop="20260508174306 +0000">
+        <title>La Fiebre del Jade: Atrapado en el Medio</title>
+        <desc>Claudia intenta mantener la paz cuando Robin y su padre chocan, mientras el equipo lucha por solucionar un problema tras otro en su camión minero.</desc>
+        <icon src="https://images.pluto.tv/series/61d558daf72e7b001a6b7983/tile_1776160441033.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65254e8d81f9420008342cee" start="20260508174306 +0000" stop="20260508180735 +0000">
+        <title>La Fiebre del Jade: Es Mi Fiesta</title>
+        <desc>Gary y Josh están frustrados por una serie de crisis, mientras Claudia hace un anuncio impactante que descarrila los planes de Robin y provoca un conflicto entre la pareja.</desc>
+        <icon src="https://images.pluto.tv/series/61d558daf72e7b001a6b7983/tile_1776160441033.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65254e8d81f9420008342cee" start="20260508180735 +0000" stop="20260508213000 +0000">
         <title>La fiebre del Jade</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65254e8d81f9420008342cee/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="6554bd45aa9ffb00088e5589" start="20260508173000 +0000" stop="20260508213000 +0000">
+    <programme channel="6554bd45aa9ffb00088e5589" start="20260508171249 +0000" stop="20260508173619 +0000">
+        <title>Cops: ¡Esa no es mi droga!</title>
+        <desc>Un hombre en bicicleta es detenido por no respetar las reglas de tránsito, pero termina bajo arresto por otras razones. Un oficial detiene a un sospechoso que niega ser due˜ño de unas drogas. Los oficiales detienen a dos buscados drogadictos.</desc>
+        <icon src="https://images.pluto.tv/series/6554e324a61c2a001b41ec2d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6554bd45aa9ffb00088e5589" start="20260508173619 +0000" stop="20260508175949 +0000">
+        <title>Cops: Criaturas terroríficas</title>
+        <desc>Un sospechoso de robo de auto insiste que un monstruo lo persigue. Los policías son testigos de una pelea entre esposos. Los oficiales investigan dos hombres en un auto con drogas escondidas.</desc>
+        <icon src="https://images.pluto.tv/series/6554e324a61c2a001b41ec2d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6554bd45aa9ffb00088e5589" start="20260508175949 +0000" stop="20260508182319 +0000">
+        <title>Cops: Un ojo en el cielo</title>
+        <desc>Un peatón corre sospechosamente en una calle oscura. Las cosas terminan mal para un sospechoso en moto robada cuando un helicóptero lo rastrea. Una pelea doméstica entre una pareja descubre otros crímenes imprevistos.</desc>
+        <icon src="https://images.pluto.tv/series/6554e324a61c2a001b41ec2d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6554bd45aa9ffb00088e5589" start="20260508182319 +0000" stop="20260508213000 +0000">
         <title>COPS</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6554bd45aa9ffb00088e5589/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29969,22 +30114,57 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/655b5d865812e80008843bd1/featuredImage_1747044088937.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="6578836cdfed030008ce5bdb" start="20260508173000 +0000" stop="20260508213000 +0000">
+    <programme channel="6578836cdfed030008ce5bdb" start="20260508171239 +0000" stop="20260508173605 +0000">
+        <title>El Vestido de tu Boda: Atlanta</title>
+        <desc>Chasity quiere un vestido fabuloso para su boda en Las Vegas, pero su hermano tiene otras ideas.</desc>
+        <icon src="https://images.pluto.tv/series/66fe4c3074980f0013ae406c/tile_1776160440928.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6578836cdfed030008ce5bdb" start="20260508173605 +0000" stop="20260508175901 +0000">
+        <title>El Vestido de tu Boda: Atlanta</title>
+        <desc>A pocas semanas de su gran día, Lisa ha traído a su testarudo prometido a la tienda para que le ayude con el vestido.</desc>
+        <icon src="https://images.pluto.tv/series/66fe4c3074980f0013ae406c/tile_1776160440928.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6578836cdfed030008ce5bdb" start="20260508175901 +0000" stop="20260508182206 +0000">
+        <title>El Vestido de tu Boda: Atlanta</title>
+        <desc>Tras un terrible accidente, a Katie le dijeron que nunca volvería a caminar. Reacia a aceptar su destino, Katie está decidida a caminar hacia el altar con el vestido de sus sueños con la ayuda del entrenador Mike Barwis.</desc>
+        <icon src="https://images.pluto.tv/series/66fe4c3074980f0013ae406c/tile_1776160440928.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6578836cdfed030008ce5bdb" start="20260508182206 +0000" stop="20260508213000 +0000">
         <title>Sí quiero ese vestido</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6578836cdfed030008ce5bdb/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="65bd0f53dc10a40008e68b96" start="20260508173000 +0000" stop="20260508213000 +0000">
+    <programme channel="65bd0f53dc10a40008e68b96" start="20260508171500 +0000" stop="20260508174600 +0000">
+        <title>Héroes especialistas: Salto mortal</title>
+        <desc>Los Héroes de Acción (Stunt Heroes) de la productora Action Concept se enfrentan a una nueva misión: hacer un salto mortal por los aires con un doble al volante de una furgoneta. Un nuevo reto para el coordinador y adicto a la adrenalina Christo…</desc>
+        <icon src="https://images.pluto.tv/series/60acebde2f462a0013cf634e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65bd0f53dc10a40008e68b96" start="20260508174600 +0000" stop="20260508181500 +0000">
+        <title>Superautos: Lamborghini</title>
+        <desc>Sant'Agata Bolognese, la casa del famoso fabricante italiano de coches deportivos Lamborghini, es el lugar perfecto para observar más de cerca los diferentes modelos Gallardo de la marca.</desc>
+        <icon src="https://images.pluto.tv/series/60d1b832e301960013dbce12/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65bd0f53dc10a40008e68b96" start="20260508181500 +0000" stop="20260508213000 +0000">
         <title>Pluto TV Gasolina</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65bd0f53dc10a40008e68b96/featuredImage_1747382174478.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="65ce480a78df2200131c597b" start="20260508173000 +0000" stop="20260508213000 +0000">
+    <programme channel="65ce480a78df2200131c597b" start="20260508172656 +0000" stop="20260508190256 +0000">
+        <title>The Dead Girl ES</title>
+        <desc>El asesinato de una joven reúne las historias de cinco mujeres: Lonely Arden descubre el cuerpo, Leah cree que la víctima puede ser su hermana desaparecida. Melora cree que es su hija, mientras que Ruth hace un descubrimiento aterrador.</desc>
+        <icon src="https://images.pluto.tv/series/63ad6ef9e83c950013967c38/tile_1769042163809.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65ce480a78df2200131c597b" start="20260508190256 +0000" stop="20260508213000 +0000">
         <title>Pluto TV Psycho</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65ce480a78df2200131c597b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="676e7b4a4bd636000819c6a7" start="20260508173000 +0000" stop="20260508213000 +0000">
+    <programme channel="676e7b4a4bd636000819c6a7" start="20260508172434 +0000" stop="20260508192734 +0000">
+        <title>La carretera</title>
+        <desc>Basado en la espléndida novela que ganó el premio Pulitzer en 2007. La película nos introduce en un mundo apocalíptico, arrasado por una explosión nuclear, en el cual un padre y su hijo viajan hacia la costa para buscar un lugar seguro donde vivir.</desc>
+        <icon src="https://images.pluto.tv/series/5f4f5ce4fa72a5001a5fd93d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="676e7b4a4bd636000819c6a7" start="20260508192734 +0000" stop="20260508213000 +0000">
         <title>SensaCine TV x Pluto</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/featuredImage_1748957676068.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -29994,7 +30174,12 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>Las modelos deben crear una fragancia única y lanzarla en un evento público mientras posan en una bañera.</desc>
         <icon src="https://images.pluto.tv/series/68ff38c869032f4edfe58992/tile_1778092562306.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686cd84603ad75cfd132d672" start="20260508173750 +0000" stop="20260508213000 +0000">
+    <programme channel="686cd84603ad75cfd132d672" start="20260508173750 +0000" stop="20260508182541 +0000">
+        <title>America's Next Top Model</title>
+        <desc>Las Estrellas producen una canción sobre sus vidas y la interpretan en un videoclip dirigido por el rapero Game.</desc>
+        <icon src="https://images.pluto.tv/series/68ff38c869032f4edfe58992/tile_1778092562306.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686cd84603ad75cfd132d672" start="20260508182541 +0000" stop="20260508213000 +0000">
         <title>America's Next Top Model</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686cd84603ad75cfd132d672/featuredImage_1751963785439.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30009,12 +30194,27 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68adc3fdd8f7693ae347a63a/featuredImage_1758662358752.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="68adc697116b783a33f99e6c" start="20260508173000 +0000" stop="20260508213000 +0000">
+    <programme channel="68adc697116b783a33f99e6c" start="20260508172756 +0000" stop="20260508175229 +0000">
+        <title>Fronteras peligrosas de Latinoamerica</title>
+        <desc>En Colombia un grupo de jóvenes mochileros descubren un cadáver. Miembros las fuerzas de seguridad peruanas patrullan rutas clandestinas de contrabandistas. Una familia estaba cruzando el Puente Internacional de Rumichaca y son detenidos.</desc>
+        <icon src="https://images.pluto.tv/series/68b0767e9889a990ed759f88/tile_1777997882316.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68adc697116b783a33f99e6c" start="20260508175229 +0000" stop="20260508181906 +0000">
+        <title>Fronteras peligrosas de Latinoamerica</title>
+        <desc>En el Control Fronterizo de Santa Rosa, descubren a una mujer armada mientras otra intenta pasar doce pantalones al llevarlos puestos. En el Puente de la Amistad, los oficiales detienen un auto que simulaba llevar equipo electrónico pero no era así.</desc>
+        <icon src="https://images.pluto.tv/series/68b0767e9889a990ed759f88/tile_1777997882316.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68adc697116b783a33f99e6c" start="20260508181906 +0000" stop="20260508213000 +0000">
         <title>Pluto TV Impacto</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68adc697116b783a33f99e6c/featuredImage_1760448744320.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="68d566603d3a9580eb461251" start="20260508173000 +0000" stop="20260508213000 +0000">
+    <programme channel="68d566603d3a9580eb461251" start="20260508172229 +0000" stop="20260508181156 +0000">
+        <title>Los Misterios de Murdoch</title>
+        <desc>Murdoch se esfuerza por detener a un lascivo criminal disfrazado conocido como El Acechador, cuyos encuentros amorosos han llegado a convertirse en un asesinato.</desc>
+        <icon src="https://images.pluto.tv/series/66eabb22d99fc7001377ba9f/tile_1774540711299.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d566603d3a9580eb461251" start="20260508181156 +0000" stop="20260508213000 +0000">
         <title>Paramount Network de Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68d566603d3a9580eb461251/featuredImage_1762183959187.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
